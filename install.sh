@@ -17,5 +17,5 @@ echo "install pandas"
 sudo pip install pandas
 
 echo "install h5py"
-sudo apt-get install libhdf5-dev
+sudo apt-get -y install libhdf5-dev
 sudo pip install h5py
