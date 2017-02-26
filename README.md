@@ -5,18 +5,13 @@
 ## git clone でこのリポジトリをコピーする
 
 ```
-git clone http
+git clone https://github.com/ya-no/zerotukuotona2
 ```
 
-## そして環境作成
+## 環境作成
 
 ```
 $ cd zerotukuotona2
 $ chmod +x install.sh
 $ ./install.sh
 ```
-
-## ライブコーディング形式ですすめます
-
-* otona01.py, otona02.py, pima_indians.py にコードを書いていこう
-* afterフォルダの中に正解が書いてあるのでなるべく見ないようにしよう
